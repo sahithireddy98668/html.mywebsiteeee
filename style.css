@@ -1,0 +1,73 @@
+.intro{
+    background-color: aliceblue;
+    height: 300px;
+    padding: 25px;
+    text-align: center;
+}
+.intro > img{
+    bottom: 0px;
+    left:x;
+}
+
+.hello{
+    padding: 25px;
+    
+}
+.intro>img{
+    width: 120px;
+    border-radius: 50%;
+    
+}
+.hello>h2{
+    text-align: center;
+}
+.hello>p{
+    text-align: center;
+}
+.skills>h2{
+    text-align: center;
+}
+.skills>.dev{
+    padding: 25px;
+}
+.skills>.dev>h3{
+    text-align: center;
+}
+.skills>.dev>img{
+}
+.skills>.roast>h3{
+    text-align: center;
+}
+.skills>.dev>img{
+    width: 200px;
+    
+}
+.skills>.dev>p{
+    float: left;
+    text-align: center;
+}
+.skills>.roast>p{
+    text-align: center;
+}
+.get{
+    text-align: center;
+    color: blue;
+}
+.contact{
+    text-align: center;
+   
+    
+}
+.con{
+    text-align: center;
+}
+.edge{
+    background-color: rgb(108, 108, 152);
+    border: 5px;
+    border-color: white;
+    height: 75px;
+    border-radius: 3%;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+    padding: 5px;
+}
